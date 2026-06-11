@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects — https://developers.cloudflare.com/pages/configuration/redirects/
+# One rule per line: <from>  <to>  [status]
+
+/ www.draggable.co.uk
